@@ -1,0 +1,5 @@
+rootProject.name = 'Gradle9'
+include 'api'
+include 'db'
+include 'service'
+
